@@ -14,3 +14,4 @@ Dragon dealt 5 damage with Mele to the Warrior
 Warrior dealt 10 damage with Sword to the Dragon
 Warrior dealt 10 damage with Sword to the Dragon
 Warrior won duel with the Dragon
+Warrior picked up a Sword
